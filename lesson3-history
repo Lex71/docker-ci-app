@@ -1,0 +1,4 @@
+Create a containerized application
+Set up a Node.js app with Dockerfile for CI/CD practice.
+
+mkdir docker-ci-app && cd docker-ci-app
